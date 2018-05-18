@@ -8,7 +8,7 @@ $header-searchbox-text: #369530;
 $header-searchbox-text-focus: #778073;
 $header-icons: #FFFFFF;
 $header-onlineuser-indicator: #81FD6C;
-$header-message-popover-background: #162533;
+$header-message-popover-background: #5F232C;
 $header-message-popover-background-hover: #812227;
 $header-message-popover-text: #CACACA;
 
@@ -87,7 +87,7 @@ $header-message-popover-text: #CACACA;
 /* [HOVER] Item do dropdown de escolha do idioma */
 .navbar-light .dropdown-item:focus, .dropdown-item:hover {
     color: $header-icons;
-    background-color: #cad9cb;
+    background-color: #DFDFDF;
 }
 
 /* SearchBox */
