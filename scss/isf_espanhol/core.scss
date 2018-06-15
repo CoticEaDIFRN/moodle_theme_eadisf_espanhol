@@ -127,7 +127,7 @@ $texto-chat: #CACACA;
 
 $data-chat: #9FB29E;
 
-$barra-chat: #235336;
+$barra-chat: #B83E3E;
 
 $balao: #CAD9CB;
 
@@ -186,8 +186,8 @@ img.userpicture {
 
 /* [HOVER e ACTIVE] Botões de classe btn-primary */
 .btn-primary:hover, .btn-primary:active {
-    background-color: #235336;
-    border-color: #235336;
+    background-color: #B83E3E;
+    border-color: #B83E3E;
 }
 
 /* Botões de classe btn-secondary e btn-default */
@@ -199,9 +199,9 @@ img.userpicture {
 
 /* [HOVER] Botões de classe btn-secondary e btn-default */
 .btn-secondary:hover, .btn-default:hover {
-    color: #235336;
-    background-color: #fff;
-    border-color: #235336;
+    color: #812227;
+    background-color: #FBF0F0;
+    border-color: #812227;
 }
 
 /* Botões de classe btn-default.active */
@@ -213,21 +213,21 @@ img.userpicture {
 
 .initialbar .letter.active {
     color: #fff;
-    border-color: #289989;
-    background-color: #289989;
+    border-color: #B83E3E;
+    background-color: #B83E3E;
 }
 
 .initialbar .letter {
-    color: #274333;
+    color: #812227;
 }
 
 .initialbar .letter:hover {
-    color: #274333;
+    color: #B83E3E;
 }
 
 .page-item.active .page-link, .page-item.active .page-link:focus, .page-item.active .page-link:hover {
-    background-color: #289989;
-    border-color: #289989;
+    background-color: #812227;
+    border-color: #812227;
     color: #ffffff;
 }
 
@@ -255,8 +255,14 @@ a {
     color: #812227;
 }
 
+.newmessage-link a{
+  color: #B83E3E;
+}
+.newmessage-link a:hover{
+  color: #EA4E58;
+}
 a:hover {
-    color: #235336;
+    color: #812227;
 }
 
 .text-primary {
